@@ -1,0 +1,70 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.mibarra{
+    background-color: rgb(218, 176, 197);
+}
+.nav-link{
+    color: rgb(122, 101, 79);
+}
+.nav-link:hover{
+    color:rgb(255, 255, 255) !important;
+}
+.active{
+    color: rgb(240, 128, 128) !important;
+}
+.hero-content{
+    background: url(img/148b2800-757c-4fc0-a6da-461517d50798.JPG)no-repeat center center/cover;
+    height: 100vh;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.intro{
+    font-size: 20px;
+    margin: 0 auto 10px;
+    margin-top: 70px;
+    max-width: 700px;
+    line-height: 1.6em;
+    background-color: rgba(240, 128, 128, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+footer{
+    background-color: lightcoral;
+    color: rgb(122, 101, 79);
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+main{
+    background-color: rgb(238, 241, 195);
+   padding-top: 1px;
+    margin: 0px;
+}
+.card-title{
+    color: darkorchid;
+}
+body{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.container{
+    height: 600px;
+}
+.imagen2{
+    height: 600px !important;
+    object-fit: cover;
+}
+.container-2{
+    
+height: 600px;
+}
